@@ -1,0 +1,3 @@
+/home/ning_shamananda/cpp_practice/client_server/server/CMakeFiles/Server.dir
+/home/ning_shamananda/cpp_practice/client_server/server/CMakeFiles/edit_cache.dir
+/home/ning_shamananda/cpp_practice/client_server/server/CMakeFiles/rebuild_cache.dir
